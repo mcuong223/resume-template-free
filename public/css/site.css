@@ -1,0 +1,36 @@
+html, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    font-size: 15px;
+}
+@media only screen and (max-width: 1111px) {
+    html, body { 
+       font-size: 14px; 
+    }
+ 
+ }
+html, body > * {
+    color: rgb(66, 66, 66);
+    /* background-color: #fbfbfb */
+}
+#root {
+    /* width: 100%; */
+}
+p {
+    margin: 0 0 8px 0;
+    font-size: 1.1rem;
+}
+.card-title {
+    font-size: 1.9rem !important;
+    font-weight: bold !important;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+a, 
+a:hover, 
+a:focus, 
+a:visited,
+a:active {
+    text-decoration: none;
+    color: unset;
+}
