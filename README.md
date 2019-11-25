@@ -1,5 +1,5 @@
 # resume-template-free
-Firsty I made this just for my personal resume, then I re-designed it for someone looking for a resume as a website
+Firsty I made this just for my personal resume, then I re-designed it for people looking for a resume as a website
 ## [Live demo](https://mcuong223.github.io/)
 
 # Installation guide:
